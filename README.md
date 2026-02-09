@@ -76,7 +76,6 @@ I build <b>clean, scalable, and production-ready web apps</b> using modern JavaS
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajputGourish&show_icons=true&theme=dark&hide_border=true" width="48%"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=RajputGourish&theme=dark&hide_border=true" width="48%"/>
 </p>
 
@@ -96,7 +95,3 @@ I build <b>clean, scalable, and production-ready web apps</b> using modern JavaS
 💼 Looking for **internships / junior developer roles**  
 🤝 Open to **collaboration & open-source**  
 📩 Email: **gourishrajput000@gmail.com**
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RajputGourish&icon=2&color=12"/>
-</p>
