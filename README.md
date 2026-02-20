@@ -50,29 +50,6 @@ I build <b>clean, scalable, and production-ready web apps</b> using modern JavaS
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
----
-
-## 📌 Featured Projects (Live & Real-World)
-
-> 📍 *Pin these repos on your GitHub profile*
-
-🔹 **MERN Authentication System**  
-- JWT auth, protected routes, role-based access  
-- React + Node + MongoDB  
-- Clean UI & reusable components  
-
-🔹 **Full-Stack E-Commerce App**  
-- Product listing, cart, checkout flow  
-- REST APIs, MongoDB schema design  
-
-🔹 **Portfolio Website**  
-- Mobile-first, fast & accessible  
-- Built with React + Tailwind  
-
-👉 *More projects available on my repositories*
-
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
